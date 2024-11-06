@@ -1,8 +1,8 @@
-# LAB-1-ATM
+# LAB-1-ATM AND BANKING SYSTEM
 ## Name : Ashwin Akash M
 ## Reference Number: 212223230024
 ## Department :Artificial Intelligence And Data Science
-## ATM and Banking SYSTEM
+## Date:
 ### AIM: 
 To study the problem statement, SRS document and draw all the UML diagrams of ATM
 System.
